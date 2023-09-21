@@ -1,0 +1,3 @@
+[submodule "ex2"]
+	path = ex2
+	url = https://github.com/NasreddinHodja/recinfo_ex2.git
