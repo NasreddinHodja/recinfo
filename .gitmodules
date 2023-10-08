@@ -4,3 +4,6 @@
 [submodule "ex3"]
 	path = ex3
 	url = https://github.com/NasreddinHodja/recinfo_ex3.git
+[submodule "ex4"]
+	path = ex4
+	url = https://github.com/NasreddinHodja/recinfo_ex4.git
